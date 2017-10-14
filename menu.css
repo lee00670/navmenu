@@ -74,7 +74,6 @@ header{
             color: #7F7D74;
             transition-duration: 0.3s;
             border-radius: 0 0 10px 0;
-            
         }
         .menu-h a:hover,
         .menu-h a:active{
@@ -93,7 +92,6 @@ header{
         and line up vertically
         and take up 100% of the width of the ul */
         display: inline-block; 
-
     }
     
         .menu-v a,
@@ -107,9 +105,7 @@ header{
             color: #7F7D74;
             border-bottom: 1.2px dotted #7F7D74;
             background-color: #E6DB8F;
-            border-radius: 0 0 10px 0;
-            
-           
+            border-radius: 0 0 10px 0; 
         }
         .menu-v a:hover,
         .menu-v a:active{
